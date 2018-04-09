@@ -2,3 +2,4 @@ data
 venv
 .ipynb_*
 .idea
+debug.log
