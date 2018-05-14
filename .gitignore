@@ -3,3 +3,4 @@ venv
 .ipynb_*
 .idea
 debug.log
+env
